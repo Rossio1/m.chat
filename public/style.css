@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  text-align: center;
+  background-color:salmon;
+}
+#container{
+  width: 960px;
+  margin: auto;
+}
+img{
+  height: 200px;
+  text-align: center;
+}
+.title{
+  font-size: 43px;
+}
+.homePage form input{
+  font-size:20px;
+}
+.homePage form button{
+ font-size: 17px;
+}
+.homePage form a{
+ font-size: 21px;
+ color: black;
+ text-decoration:none;
+}
+.mainPage{
+  position:fixed;
+  top: 800px;
+  margin-left: 310px;
+}
+.mainPage input{
+  margin-left: 130px;
+  font-size: 18px;
+  width:500px;
+}
+.mainPage button{
+  font-size: 18px;
+}
+.signUpList{
+  width: 600px;
+  margin: 100px auto;
+}
+.signUpList form section input{
+  font-size:20px;
+}
+.signUpList form{
+  width: 100%;
+}
